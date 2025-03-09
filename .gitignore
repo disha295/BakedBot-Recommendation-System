@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Node.js modules for frontend
+frontend/node_modules/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store  # (Mac)
+
